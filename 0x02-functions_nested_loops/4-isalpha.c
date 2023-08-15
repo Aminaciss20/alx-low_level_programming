@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - checks if caracter is a letter
+ * _isalpha - checks if character is a letter
  *            both lowercase or uppercase
  *
  * @c: takes input from other functions.
@@ -15,5 +15,5 @@ int _isalpha(int c)
 		return (1);
 	if (c >= 65 && c <= 90)
 		return (1);
-	retuen (0);
+	return (0);
 }
