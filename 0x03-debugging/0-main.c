@@ -11,7 +11,7 @@ int main(void)
 	int i;
 
 	i = 0;
-	positive_or_nagarive(i);
+	positive_or_nagative(i);
 
 	return (0);
 }
