@@ -25,4 +25,3 @@ void rev_string(char *n)
 		*(n + i) = temp;
 	}
 }
-
